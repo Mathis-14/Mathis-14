@@ -1,6 +1,6 @@
 # Mathis Villaret
 
-M1 — ENSAE Paris × HEC Paris  
+ENSAE Paris × HEC Paris  
 Quantitative Finance
 
 ---
