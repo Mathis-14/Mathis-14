@@ -1,6 +1,6 @@
 # Mathis Villaret
 
-ENSAE Paris × HEC Paris  
+M1 — ENSAE Paris × HEC Paris  
 Quantitative Finance
 
 ---
@@ -12,29 +12,39 @@ My work revolves around extracting structure from market data to build **pricing
 
 ### Focus Areas
 - Volatility modelling and implied surface construction  
-- Option pricing and risk sensitivities  
-- Time-series econometrics for market dynamics  
-- Systematic and data-driven strategies  
+  ▸ calibration from illiquid option markets and activity-based data  
+  ▸ liquidity-aware interpolation for implied volatility surfaces  
+  ▸ benchmarking stochastic models vs ML architectures for volatility prediction  
+
+- Option pricing & risk
+  ▸ sensitivities & Greeks  
+  ▸ factor and risk-premia modelling  
+
+- Time-series econometrics for markets
+  ▸ regime switching & structural breaks  
+  ▸ macro-linked modelling of asset returns (e.g., gold-price dynamics project)  
+
+- Systematic & data-driven strategies
+  ▸ statistical modelling for signal construction  
+  ▸ backtesting pipelines and robustness assessment  
 
 ---
 
-### Recent Work
-- Calibration of **volatility surfaces** for illiquid derivatives using market and activity data  
-- **Liquidity-aware interpolation schemes** for implied volatility  
-- Benchmarking **jump-diffusion stochastic models vs ML architectures** for volatility prediction  
+### Selected Skills
+
+| Domain | Tools & Libraries |
+|--------|------------------|
+| Programming | Python (advanced), SQL, LaTeX |
+| Statistics & Econometrics | statsmodels, linearmodels, ARCH, scipy |
+| Quantitative Finance | Volatility modelling, pricing, Greeks, risk metrics, factor models |
+| Data & Viz | pandas, NumPy, matplotlib, seaborn, plotly |
+| Time-Series & Forecasting | ARIMA/GARCH families, regime-switching models, state-space models |
+| ML for Markets | scikit-learn, gradient boosting, neural nets (basics), CV for financial data |
+| Workflow | Git/GitHub, Jupyter, reproducible research practices |
 
 ---
 
-### Toolbox
-Python (NumPy · pandas · statsmodels · scikit-learn · matplotlib)  
-Jupyter · Time-series modelling · Volatility & risk · Backtesting prototypes
-
----
-
-### Selected Projects
-- **Benchmark_Salaires_Superbrut_Supernet** — Python pipeline for benchmarking salary levels across French regions and industries through scraping, cleaning, statistical comparison and visualization.
-- **Volatility Modelling (Private Project)** — Construction and calibration of implied volatility surfaces for illiquid options markets using alternative data; comparison of stochastic and machine-learning approaches for volatility prediction. *(Private repository)*
-- **Gold-Price Dynamics (Incoming)** — Econometric study of gold returns using macro factors, volatility regimes and structural break detection. *(Work in progress)*
-
----
+| Contact  | Link |
+|----------|-------|
+| LinkedIn | https://www.linkedin.com/in/mathis-villaret/ |
 
