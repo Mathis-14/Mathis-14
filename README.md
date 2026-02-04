@@ -43,5 +43,3 @@ Calibrating implied volatility surfaces and stress-testing Greeks under differen
 |----------|------|
 | **LinkedIn** | [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/) |
 
-
----
