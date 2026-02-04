@@ -21,27 +21,6 @@ Building arbitrage-free volatility surfaces for crypto options (BTC/ETH) using D
 
 Calibrating implied volatility surfaces and stress-testing Greeks under different market regimes. Using Refinitiv Eikon API for institutional-grade market data.
 
-
-## Focus Areas
-
-**Volatility Surface Modeling**
-- Calibration of implied volatility surfaces from liquid markets (common stocks or stock indices) and illiquid underlyings (crypto options via Deribit)
-- Liquidity-aware interpolation methods (SVI, SSVI, spline-based approaches)
-- Benchmarking stochastic models vs ML architectures for volatility forecasting
-
-**Derivatives Pricing & Risk Management**
-- Greeks computation and delta/vega hedging strategies
-- Exotic options pricing (barriers, digitals)
-- Backtesting hedging P&L on real market data
-
-**Time-Series Econometrics for Markets**
-- Macro factor analysis (FRED integration: inflation, Fed rates, unemployment)
-- Currently studying: Structural break detection in asset returns
-
-**Currently Studying**
-- Systematic signal construction from market microstructure data
-- Backtesting pipelines with proper time-series cross-validation
-- LightGBM & Physics-Informed Neural Networks (PINNs)
 ---
 
 ## Technical Stack
@@ -65,8 +44,4 @@ Calibrating implied volatility surfaces and stress-testing Greeks under differen
 | **LinkedIn** | [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/) |
 
 
-
 ---
-
-
-*"Les marchés ont un courage de lièvre et une mémoire d'éléphant." J'étudie leur courage et leur mémoire.*
