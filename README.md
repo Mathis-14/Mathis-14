@@ -28,7 +28,7 @@ Calibrating implied volatility surfaces and stress-testing Greeks under differen
 | **Domain** | **Tools & Libraries** |
 |------------|----------------------|
 | **Programming** | Python (advanced), SQL, VBA, LaTeX |
-| **API Mastery** | **Refinitiv Eikon API**, Deribit API, Yahoo Finance, FRED (macroeconomic data) |
+| **API Mastery** | **LSEG Data Library**, Deribit API, Yahoo Finance, FRED (macroeconomic data) |
 | **Quant Finance** | Volatility modeling, option pricing (Black-Scholes, binomial, Monte Carlo), Greeks, local vol |
 | **Econometrics** | statsmodels, ARCH/GARCH, linearmodels |
 | **Data & Visualization** | pandas, NumPy, matplotlib, seaborn, Plotly (interactive 3D vol surfaces), streamlit |
