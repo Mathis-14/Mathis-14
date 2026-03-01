@@ -1,11 +1,5 @@
 # Mathis Villaret
-**ENSAE Paris × HEC Paris** — Quantitative Finance
-
----
-
-I'm passionate about **translating financial theory into robust, production-grade implementations**. My work combines rigorous mathematics (stochastic calculus, econometrics) with hands-on coding to build pricing models, volatility surfaces, and systematic strategies that mirror real sell-side workflows.
-
----
+**HEC Paris x ENSAE Paris**
 
 ## Current Work
 
@@ -19,7 +13,7 @@ Building arbitrage-free volatility surfaces for crypto options (BTC/ETH) using D
 
 **NVIDIA Options Analysis**
 
-Calibrating implied volatility surfaces and stress-testing Greeks under different market regimes. Using Refinitiv Eikon API for institutional-grade market data.
+Calibrating implied volatility surfaces and stress-testing Greeks under different market regimes. Using Refinitiv LSEG Data Library & API for institutional-grade market data.
 
 ---
 
