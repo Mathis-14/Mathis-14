@@ -22,6 +22,7 @@ Calibrating implied volatility surfaces and stress-testing Greeks under differen
 | **Domain** | **Tools & Libraries** |
 |------------|----------------------|
 | **Programming** | Python (advanced), SQL, VBA, LaTeX |
+| **Frontend** | Next.js, React |
 | **API Mastery** | **LSEG Data Library**, Deribit API, Yahoo Finance, FRED (macroeconomic data) |
 | **Quant Finance** | Volatility modeling, option pricing (Black-Scholes, binomial, Monte Carlo), Greeks, local vol |
 | **Econometrics** | statsmodels, ARCH/GARCH, linearmodels |
