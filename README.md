@@ -10,8 +10,7 @@ Interested in LLMs and APIs—building LLM-powered applications via APIs, orches
 - **Free-will narrative simulation game** where you play the company’s internal AI assistant inside an OS, facing unscripted interactions with **Mistral-powered LLM NPCs**.  
 - **Stack & architecture**: Next.js 15 + TypeScript (UI) with serverless **API routes** that build prompts from game state/history and call Mistral API for **structured JSON** (dialogue + actions), deployed on Vercel.
 
-**Bank of America — Applied Statistics Project (ENSAE Paris)**  
-*October 2025 – May 2026*
+**Bank of America — Applied Statistics Project (ENSAE Paris)**  *October 2025 – May 2026* 
 Building arbitrage-free volatility surfaces for crypto options (BTC/ETH) using Deribit market data:
 - Calibrating SVI, SSVI, and Dupire local volatility models with no-arbitrage constraints
 - Benchmarking ML methods (LSTM, Physics-Informed Neural Networks, XGBoost) against jump-diffusion models for implied volatility forecasting
