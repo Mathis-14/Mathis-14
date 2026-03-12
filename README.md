@@ -5,7 +5,7 @@ Interested in LLMs and APIs—building LLM-powered applications via APIs, orches
 
 ## Current Work
 
-**Mistral Worldwide Hackathon Paris Edition - Distral AI**
+**Mistral Worldwide Hackathon Paris Edition - Distral AI** (Worldwide finalist)
 - Built in 28 hours at the Mistral AI x AWS Hackathon with Eliott (https://github.com/eliottvalette) and Nicolas (https://github.com/NgrimaldiN).  
 - **Free-will narrative simulation game** where you play the company’s internal AI assistant inside an OS, facing unscripted interactions with **Mistral-powered LLM NPCs**.  
 - **Stack & architecture**: Next.js 15 + TypeScript (UI) with serverless **API routes** that build prompts from game state/history and call Mistral API for **structured JSON** (dialogue + actions), deployed on Vercel.
