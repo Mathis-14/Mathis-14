@@ -6,10 +6,10 @@ Interested in LLMs and APIs—building LLM-powered applications via APIs, orches
 ## Current Work
 
 **Mistral Worldwide Hackathon Paris Edition - Distral AI** (🌍 Top 12 Worldwide Finalists · 1,700+ participants across 7 cities) ([live](https://hackathon-mistral-distral.vercel.app/))
-- Built in 28 hours at the Mistral AI x AWS Hackathon with Eliott (https://github.com/eliottvalette) and Nicolas (https://github.com/NgrimaldiN).  
+- Built in 28 hours at the Mistral AI x AWS Hackathon with Eliott ([GitHub](https://github.com/eliottvalette)) and Nicolas [GitHub](https://github.com/NgrimaldiN).  
 - **Free-will narrative simulation game** where you play the company’s internal AI assistant inside an OS, facing unscripted interactions with **Mistral-powered LLM NPCs**.  
 - **Stack & architecture**: Next.js 15 + TypeScript (UI) with serverless **API routes** that build prompts from game state/history and call Mistral API for **structured JSON** (dialogue + actions), deployed on Vercel.
-- Pitched on Mistral AI Youtube Channel : https://www.youtube.com/live/dk2zLmeO-6s?t=6392
+- Pitched on Mistral AI Youtube Channel :([video](https://www.youtube.com/live/dk2zLmeO-6s?t=6392))
 
 **OpenAlpha — Open-source financial intelligence** ([live](https://open-alpha-finance.vercel.app))
 * Free web app that aggregates stocks, commodities, macro indicators, and BTC/ETH perpetuals from Deribit into one clean dashboard.
