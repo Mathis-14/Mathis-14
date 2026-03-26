@@ -5,10 +5,17 @@ Interested in LLMs and APIs—building LLM-powered applications via APIs, orches
 
 ## Current Work
 
-**Mistral Worldwide Hackathon Paris Edition - Distral AI** (Worldwide finalist)
+**Mistral Worldwide Hackathon Paris Edition - Distral AI** (🌍 Top 12 Worldwide Finalists · 1,700+ participants across 7 cities) ([live](https://hackathon-mistral-distral.vercel.app/))
 - Built in 28 hours at the Mistral AI x AWS Hackathon with Eliott (https://github.com/eliottvalette) and Nicolas (https://github.com/NgrimaldiN).  
 - **Free-will narrative simulation game** where you play the company’s internal AI assistant inside an OS, facing unscripted interactions with **Mistral-powered LLM NPCs**.  
 - **Stack & architecture**: Next.js 15 + TypeScript (UI) with serverless **API routes** that build prompts from game state/history and call Mistral API for **structured JSON** (dialogue + actions), deployed on Vercel.
+- Pitched on Mistral AI Youtube Channel : https://www.youtube.com/live/dk2zLmeO-6s?t=6392
+
+**OpenAlpha — Open-source financial intelligence** ([live](https://open-alpha-finance.vercel.app))
+* Free web app that aggregates stocks, commodities, macro indicators, and BTC/ETH perpetuals from Deribit into one clean dashboard.
+* AI agent powered by Mistral AI — grounded in live market data, answers any financial question in plain language.
+* Custom tool-based agentic workflow: multi-round planning loop, SSE streaming, server-side tool execution — no LangChain, no framework overhead.
+* **Stack**: Next.js App Router · TypeScript · Mistral Chat Completions API · yfinance · FRED · Deribit
 
 **Bank of America — Applied Statistics Project (ENSAE Paris)**   
 Building arbitrage-free volatility surfaces for crypto options (BTC/ETH) using Deribit market data:
