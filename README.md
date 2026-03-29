@@ -40,8 +40,8 @@ Calibrating implied volatility surfaces and stress-testing Greeks under differen
 | **Quant Finance** | Volatility modeling, option pricing (Black-Scholes, binomial, Monte Carlo), Greeks, local vol |
 | **Econometrics** | statsmodels, ARCH/GARCH, linearmodels |
 | **Data & Visualization** | pandas, NumPy, matplotlib, seaborn, Plotly (interactive 3D vol surfaces), streamlit |
-| **ML for Finance** | scikit-learn, XGBoost, neural networks (basics) |
-| **Workflow** | Git/GitHub, Jupyter, reproducible research pipelines |
+| **ML** | scikit-learn, XGBoost, PyTorch (basics) |
+| **Workflow** | Git/GitHub, Jupyter, GCP, Linux for VMs |
 
 ---
 
