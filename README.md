@@ -20,6 +20,7 @@ Interested in LLMs and APIs—building LLM-powered applications via APIs, orches
 **Bank of America — Applied Statistics Project (ENSAE Paris)**   
 Building arbitrage-free volatility surfaces for crypto options (BTC/ETH) using Deribit market data:
 - Calibrating SVI, SSVI, and Dupire local volatility models with no-arbitrage constraints
+- Engineered an end-to-end data collection pipeline on a GCP VM (cron job every 4h) to snapshot BTC/ETH option chains from Deribit, sync to Google Drive via OAuth2, and consolidate into Parquet datasets for ML model training
 - Benchmarking ML methods (LSTM, Physics-Informed Neural Networks, XGBoost) against jump-diffusion models for implied volatility forecasting
 - Integrating on-chain liquidity metrics (funding rates, whale activity) for microstructure-aware interpolation
 
