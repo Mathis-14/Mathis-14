@@ -1,54 +1,35 @@
 # Mathis Villaret
 **HEC Paris x ENSAE Paris**
+LLM agent builder | Quant finance | Full-stack shipping
 
-Interested in LLMs and APIs—building LLM-powered applications via APIs, orchestrating LLM-to-LLM interactions (agents/tool workflows), and applying them across diverse use cases like finance, games, and more.
+I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative finance, from volatility surface calibration to derivatives pricing. I ship fast (Next.js + TypeScript on Vercel) and go deep on the math.
 
-## Current Work
+### Highlights
 
-**Mistral Worldwide Hackathon Paris Edition - Distral AI** (🌍 Top 12 Worldwide Finalists · 1,700+ participants across 7 cities) ([live](https://hackathon-mistral-distral.vercel.app/))
-- Built in 28 hours at the Mistral AI x AWS Hackathon with Eliott ([GitHub](https://github.com/eliottvalette)) and Nicolas ([GitHub](https://github.com/NgrimaldiN)).  
-- **Free-will narrative simulation game** where you play the company’s internal AI assistant inside an OS, facing unscripted interactions with **Mistral-powered LLM NPCs**.  
-- **Stack & architecture**: Next.js 15 + TypeScript (UI) with serverless **API routes** that build prompts from game state/history and call Mistral API for **structured JSON** (dialogue + actions), deployed on Vercel.
-- Pitched on Mistral AI Youtube Channel : [video](https://www.youtube.com/live/dk2zLmeO-6s?t=6392)
+- **[Distral AI](https://github.com/Mathis-14/Hackathon-Mistral-Distral)**: Mistral AI Worldwide Hackathon 2026, Top 12 Worldwide (1,700+ participants). Free-will narrative game with unscripted Mistral-powered LLM NPCs. Next.js + TypeScript, structured JSON generation. [Pitched on Mistral AI YouTube](https://www.youtube.com/live/dk2zLmeO-6s?t=6392). Built with [Eliott](https://github.com/eliottvalette) and [Nicolas](https://github.com/NgrimaldiN).
+- **[OpenAlpha](https://open-alpha-finance.vercel.app)**: Open-source financial intelligence platform. AI agent powered by Mistral AI, grounded in live market data (stocks, commodities, crypto derivatives from Deribit). Custom agentic workflow with multi-round planning, SSE streaming, and server-side tool execution. Quant modules: SSVI volatility surface calibration (Gatheral & Jacquier 2014), Black-Scholes Greeks, multi-leg payoff diagrams. Voice input via Voxtral. Next.js App Router, TypeScript, Firebase auth, Redis quota (Upstash).
 
-**OpenAlpha — Open-source financial intelligence** ([live](https://open-alpha-finance.vercel.app))
-* Free web app that aggregates stocks, commodities, macro indicators, and BTC/ETH perpetuals from Deribit into one clean dashboard.
-* AI agent powered by Mistral AI — grounded in live market data, answers any financial question in plain language.
-* Custom tool-based agentic workflow: multi-round planning loop, SSE streaming, server-side tool execution — no LangChain, no framework overhead.
-* **Stack**: Next.js App Router · TypeScript · Mistral Chat Completions API · yfinance · FRED · Deribit
+### Research
 
-**Bank of America — Applied Statistics Project (ENSAE Paris)**   
-Building arbitrage-free volatility surfaces for crypto options (BTC/ETH) using Deribit market data:
-- Calibrating SVI, SSVI, and Dupire local volatility models with no-arbitrage constraints
-- Engineered an end-to-end data collection pipeline on a GCP VM (cron job every 4h) to snapshot BTC/ETH option chains from Deribit, sync to Google Drive via OAuth2, and consolidate into Parquet datasets for ML model training
-- Benchmarking ML methods (LSTM, Physics-Informed Neural Networks, XGBoost) against jump-diffusion models for implied volatility forecasting
-- Integrating on-chain liquidity metrics (funding rates, whale activity) for microstructure-aware interpolation
+- **Volatility Surface Research (ENSAE Paris x BofA)**: Arbitrage-free volatility surfaces for crypto options (BTC/ETH). SVI/SSVI calibration, ML benchmarking (LSTM, PINNs, XGBoost). GCP pipeline with cron-based Deribit snapshots and on-chain liquidity metrics.
 
-**Diverse finance projects : Option Pricing, Bond Pricing, LSEG API improvment**
+### Focus
 
-Calibrating implied volatility surfaces and stress-testing Greeks under different market regimes. Calibrating yield curves. Using Refinitiv LSEG Data Library & API for institutional-grade market data.
+- LLM agents and tool-calling architectures (Mistral AI, Anthropic APIs)
+- Quantitative finance research: volatility modeling, stochastic calculus, arbitrage-free calibration methods
+- Shipping production apps fast (Next.js, Vercel, serverless)
 
+### Stack
+- **Languages**: Python, TypeScript, SQL
+- **Frontend**: Next.js, React, Tailwind CSS, Vercel
+- **LLM / AI**: Mistral AI, Anthropic
+- **Agentic AI**: LangChain, LangGraph, OpenClaw 
+- **ML / Stats**: PyTorch, scikit-learn, XGBoost, statsmodels, ARCH/GARCH
+- **Data**: pandas, NumPy, Plotly, matplotlib
+- **Infra**: GCP, Linux (Ubuntu), Docker, Git/GitHub, systemd
 
----
+### Contact
 
-## Technical Stack
+- **LinkedIn**: [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/)
 
-| **Domain** | **Tools & Libraries** |
-|------------|----------------------|
-| **Programming** | Python (advanced), SQL, VBA, LaTeX |
-| **Frontend** | Next.js, React |
-| **API Mastery** | **LLM APIs (Mistral AI, OpenAI)**, **LSEG Data Library**, Deribit API, Yahoo Finance, FRED (macroeconomic data) |
-| **Quant Finance** | Volatility modeling, option pricing (Black-Scholes, binomial, Monte Carlo), Greeks, local vol |
-| **Econometrics** | statsmodels, ARCH/GARCH, linearmodels |
-| **Data & Visualization** | pandas, NumPy, matplotlib, seaborn, Plotly (interactive 3D vol surfaces), streamlit |
-| **ML** | scikit-learn, XGBoost, PyTorch (basics) |
-| **Workflow** | Git/GitHub, Jupyter, GCP, Linux for VMs |
-
----
-
-## Contact
-
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/) |
-
+Last updated: April 2026
