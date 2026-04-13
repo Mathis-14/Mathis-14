@@ -16,7 +16,7 @@ I build and deploy LLM-powered applications end to end: agentic workflows, tool-
 ### Focus
 
 - LLM agents and tool-calling architectures (Mistral AI, Anthropic APIs)
-- Quantitative finance research: volatility modeling, stochastic calculus, arbitrage-free calibration methods
+- Quantitative research: volatility modeling, stochastic calculus, arbitrage-free calibration methods
 - Shipping production apps fast (Next.js, Vercel, serverless)
 
 ### Stack
