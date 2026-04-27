@@ -5,7 +5,7 @@ LLM agent builder | Applied math | Full-stack shipping
 I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative finance, from volatility surface calibration to derivatives pricing. I ship fast (Next.js + TypeScript on Vercel) and go deep on the math.
 
 ### Highlights
-- * [Voodoo x Anthropic Hackathon 2026](https://anthropic-voodoo-hackathon.vercel.app/): **Winner of Track 2** (Marketing Automation). Generic pipeline turning any gameplay video into a single-file HTML playable ad. AppLovin-compliant, demo on 2D and 3D games. Built with [Eliott](https://github.com/eliottvalette) and [Nicolas](https://github.com/NgrimaldiN).
+- **[Voodoo x Anthropic Hackathon 2026](https://anthropic-voodoo-hackathon.vercel.app/)**: **Winner of Track 2** (Marketing Automation). Generic pipeline turning any gameplay video into a single-file HTML playable ad. AppLovin-compliant, demo on 2D and 3D games. Built with [Eliott](https://github.com/eliottvalette) and [Nicolas](https://github.com/NgrimaldiN).
   
 - **[Distral AI](https://hackathon-mistral-distral.vercel.app/)**: Mistral AI Worldwide Hackathon 2026, Top 12 Worldwide (1,700+ participants). Free-will narrative game with unscripted Mistral-powered LLM NPCs. Next.js + TypeScript, structured JSON generation. [Pitched on Mistral AI YouTube](https://www.youtube.com/live/dk2zLmeO-6s?t=6392). Built with [Eliott](https://github.com/eliottvalette) and [Nicolas](https://github.com/NgrimaldiN).
   
