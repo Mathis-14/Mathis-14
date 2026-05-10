@@ -2,7 +2,7 @@
 **HEC Paris x ENSAE Paris**  
 LLM agent builder | Applied math | Full-stack shipping
 
-I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative finance, from volatility surface calibration to derivatives pricing. I ship fast (Next.js + TypeScript on Vercel) and go deep on the math.
+I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative research on volatility surface calibration. I ship fast (Next.js + TypeScript on Vercel) and go deep on the math.
 
 ### Highlights
 - **[Voodoo x Anthropic Hackathon 2026](https://anthropic-voodoo-hackathon.vercel.app/)**: **Winner of Track 2** (Marketing Automation). Generic pipeline turning any gameplay video into a single-file HTML playable ad. AppLovin-compliant, demo on 2D and 3D games. Built with [Eliott](https://github.com/eliottvalette) and [Nicolas](https://github.com/NgrimaldiN).
@@ -13,7 +13,7 @@ I build and deploy LLM-powered applications end to end: agentic workflows, tool-
 
 ### Research
 
-- **Volatility Surface Research (ENSAE Paris x BofA)**: Arbitrage-free volatility surfaces for crypto options (BTC/ETH). SVI/SSVI calibration, ML benchmarking (LSTM, PINNs, XGBoost). GCP pipeline with cron-based Deribit snapshots and on-chain liquidity metrics.
+- **Volatility Surface Research (ENSAE Paris x BofA)**: Arbitrage-free volatility surfaces for crypto options (BTC/ETH). SVI/SSVI calibration, ML benchmarking (XGBoost). GCP pipeline with cron-based Deribit snapshots and on-chain liquidity metrics.
 
 ### Focus
 
@@ -34,4 +34,4 @@ I build and deploy LLM-powered applications end to end: agentic workflows, tool-
 
 - **LinkedIn**: [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/)
 
-Last updated: April 2026
+Last updated: May 2026
