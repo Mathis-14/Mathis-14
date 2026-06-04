@@ -1,5 +1,5 @@
 # Mathis Villaret
-**HEC Paris x ENSAE Paris**  
+**Applied AI @Presti | HEC Paris x ENSAE Paris**  
 LLM agent builder | Applied math | Full-stack shipping
 
 I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative research on volatility surface calibration. I ship fast (Next.js + TypeScript on Vercel) and go deep on the math.
@@ -34,4 +34,4 @@ I build and deploy LLM-powered applications end to end: agentic workflows, tool-
 
 - **LinkedIn**: [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/)
 
-Last updated: May 2026
+Last updated: June 2026
