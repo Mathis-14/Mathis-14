@@ -1,8 +1,8 @@
 # Mathis Villaret
-**Applied AI @Presti | HEC Paris x ENSAE Paris**  
-LLM agent builder | Applied math | Full-stack shipping
+**Applied AI @Presti**
+LLM agent builder | Full-stack shipping
 
-I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative research on volatility surface calibration. I ship fast (Next.js + TypeScript on Vercel) and go deep on the math.
+I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative research on volatility surface calibration. 
 
 ### Highlights
 - **[Voodoo x Anthropic Hackathon 2026](https://anthropic-voodoo-hackathon.vercel.app/)**: **Winner of Track 2** (Marketing Automation). Generic pipeline turning any gameplay video into a single-file HTML playable ad. AppLovin-compliant, demo on 2D and 3D games. Built with [Eliott](https://github.com/eliottvalette) and [Nicolas](https://github.com/NgrimaldiN).
@@ -25,7 +25,7 @@ I build and deploy LLM-powered applications end to end: agentic workflows, tool-
 - **Languages**: Python, TypeScript, SQL
 - **Frontend**: Next.js, React, Tailwind CSS, Vercel
 - **LLM / AI**: Mistral AI, Anthropic
-- **Agentic AI**: LangChain, LangGraph, OpenClaw 
+- **Agentic AI**: LangChain, LangGraph, OpenClaw
 - **ML / Stats**: PyTorch, scikit-learn, XGBoost, statsmodels, ARCH/GARCH
 - **Data**: pandas, NumPy, Plotly, matplotlib
 - **Infra**: GCP, Linux (Ubuntu), Docker, Git/GitHub, systemd
