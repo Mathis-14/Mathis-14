@@ -1,6 +1,5 @@
 # Mathis Villaret
-**Applied AI @Presti**
-LLM agent builder | Full-stack shipping
+**Applied AI @Presti** | LLM agent builder | Full-stack shipping
 
 I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative research on volatility surface calibration. 
 
