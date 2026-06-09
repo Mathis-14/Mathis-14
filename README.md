@@ -30,6 +30,10 @@ I build and deploy LLM-powered applications end to end: agentic workflows, tool-
 - **Data**: pandas, NumPy, Plotly, matplotlib
 - **Infra**: GCP, Linux (Ubuntu), Docker, Git/GitHub, systemd
 
+### Education - Dual Degree Student
+- [**HEC Paris**](https://www.hec.edu/fr)
+- [**ENSAE Paris**](https://www.ensae.fr/)
+
 ### Contact
 
 - **LinkedIn**: [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/)
