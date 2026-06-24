@@ -1,8 +1,6 @@
 # Mathis Villaret
 **Applied AI @Presti** | LLM agent builder | Full-stack shipping
 
-I build and deploy LLM-powered applications end to end: agentic workflows, tool-calling architectures, and structured generation pipelines using LLM APIs. My other focus is quantitative research on volatility surface calibration. 
-
 ### Highlights
 - **[Voodoo x Anthropic Hackathon 2026](https://anthropic-voodoo-hackathon.vercel.app/)**: **Winner of Track 2** (Marketing Automation). Generic pipeline turning any gameplay video into a single-file HTML playable ad. AppLovin-compliant, demo on 2D and 3D games. Built with [Eliott](https://github.com/eliottvalette) and [Nicolas](https://github.com/NgrimaldiN).
   
@@ -13,28 +11,5 @@ I build and deploy LLM-powered applications end to end: agentic workflows, tool-
 ### Research
 
 - **Volatility Surface Research (ENSAE Paris x BofA)**: Arbitrage-free volatility surfaces for crypto options (BTC/ETH). SVI/SSVI calibration, ML benchmarking (XGBoost). GCP pipeline with cron-based Deribit snapshots and on-chain liquidity metrics.
-
-### Focus
-
-- LLM agents and tool-calling architectures (Mistral AI, Anthropic APIs)
-- Quantitative research: volatility modeling, stochastic calculus, arbitrage-free calibration methods
-- Shipping production apps fast (Next.js, Vercel, serverless)
-
-### Stack
-- **Languages**: Python, TypeScript, SQL
-- **Frontend**: Next.js, React, Tailwind CSS, Vercel
-- **LLM / AI**: Mistral AI, Anthropic
-- **Agentic AI**: LangChain, LangGraph, OpenClaw
-- **ML / Stats**: PyTorch, scikit-learn, XGBoost, statsmodels, ARCH/GARCH
-- **Data**: pandas, NumPy, Plotly, matplotlib
-- **Infra**: GCP, Linux (Ubuntu), Docker, Git/GitHub, systemd
-
-### Education - Dual Degree Student
-- [**HEC Paris**](https://www.hec.edu/fr)
-- [**ENSAE Paris**](https://www.ensae.fr/)
-
-### Contact
-
-- **LinkedIn**: [linkedin.com/in/mathis-villaret](https://www.linkedin.com/in/mathis-villaret/)
 
 Last updated: June 2026
