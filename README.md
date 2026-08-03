@@ -1,5 +1,5 @@
 # Mathis Villaret
-**Applied AI @Presti** | LLM agent builder | Full-stack shipping  
+**Applied AI @Presti** 
 [Portefolio](https://mathisv-portefolio.vercel.app/) 
 
 
