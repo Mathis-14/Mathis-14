@@ -1,6 +1,6 @@
 # Mathis Villaret
 **Applied AI @Presti** \
-[Portefolio](https://mathisv-portefolio.vercel.app/) 
+[Portfolio](https://mathisv-portefolio.vercel.app/) 
 
 
 ### Highlights
